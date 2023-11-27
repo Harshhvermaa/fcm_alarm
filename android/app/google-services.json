@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "84913459064",
+    "project_id": "fcmalarm-9170e",
+    "storage_bucket": "fcmalarm-9170e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:84913459064:android:0b5ed09f59b997e2bdc28d",
+        "android_client_info": {
+          "package_name": "com.example.fcm_alarm"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyARaT1_qgrMQ4_6So4MEWUHjrj_TRKF5kc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
